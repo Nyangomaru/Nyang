@@ -1,0 +1,17 @@
+{
+  "title": "The Third Party",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "01": {
+      "title": "01",
+      "volume": "",
+      "last_updated": "1638341516",
+      "groups": {
+        "": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvdGhlLXRoaXJkLXBhcnR5LjE4MTY1L2Mx/"
+      }
+    }
+  }
+}
