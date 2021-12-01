@@ -1,16 +1,24 @@
 {
   "title": "The Third Party",
-  "description": "",
-  "artist": "",
-  "author": "",
-  "cover": "",
+  "description": "A rich and beautiful girl, and the heiress to the GBS broadcasting center. A handsome aspiring news anchor with limitless ambitions. A gorgeous backstage producer with a secret. Three people with different goals and desires. A triangle love thriller that will keep you on the edge your seats!",
+  "artist": "Enjelicious",
+  "author": "Enjelicious",
+  "cover": "https://cdn.anisearch.de/images/manga/cover/full/30/30934.webp",
   "chapters": {
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1638343013",
+      "groups": {
+        "None": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvdGhlLXRoaXJkLXBhcnR5LjE4MTY1L2My/"
+      }
+    },
     "01": {
       "title": "01",
       "volume": "",
       "last_updated": "1638341516",
       "groups": {
-        "": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvdGhlLXRoaXJkLXBhcnR5LjE4MTY1L2Mx/"
+        "None": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvdGhlLXRoaXJkLXBhcnR5LjE4MTY1L2Mx/"
       }
     }
   }
