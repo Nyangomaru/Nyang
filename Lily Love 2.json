@@ -7,12 +7,18 @@
   "chapters": {
     "1": {
       "title": "1",
-      "volume": "",
-      "last_updated": "1638339751",
+      "volume": "1",
+      "last_updated": "1638340500",
       "groups": {
-        "": [
-          "https://static.youmadcdn.xyz/manga/lily-love-2-ratana-satis/chapter-1/7ae61b1fba78_1.jpg"
-        ]
+        "": "https://mangabuddy.com/lily-love-2-ratana-satis/chapter-1"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1638340419",
+      "groups": {
+        "": "https://mangabuddy.com/lily-love-2-ratana-satis/chapter-2"
       }
     }
   }
